@@ -19,7 +19,7 @@ const widgets: any = {
 
 const DynamicForm = () => {
   return (
-    <Form
+    <Form className='dynamic-form'
       schema={dataSchema}
       validator={validator}
       // onChange={log('changed')}

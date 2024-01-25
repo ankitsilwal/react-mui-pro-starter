@@ -6,7 +6,7 @@
 // import Layout from './layout';
 // import { ErrorBoundary } from './components';
 // import IdleTimer from './components/IdleTimer';
-import './style.scss';
+import "./style.scss"
 import DynamicForm from './form/DynamicForm';
 
 // import { DynamicForm } from '@mui/icons-material';
